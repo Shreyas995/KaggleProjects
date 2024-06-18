@@ -1,4 +1,4 @@
-# KaggalProjects
-Kaggal Projects
+# KaggelProjects
+Kaggle Projects
 Day1 log
 Smit joined
